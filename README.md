@@ -131,13 +131,13 @@ function doAction(data, size) {
 * What will be displayed when you preview this page in the browser?
 
 
-This|is|a|test#that#illustrates
+1) This|is|a|test#that#illustrates
 
-This|is|a|test#that#illustrates#some#key#points#about#scripts
+2) This|is|a|test#that#illustrates#some#key#points#about#scripts
 
-Nothing will be displayed on the screen and an error will display in the console
+3) Nothing will be displayed on the screen and an error will display in the console
 
-This#is#a#test that illustrates
+4) This#is#a#test that illustrates
 
 <hr/>
 
