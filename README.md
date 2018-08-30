@@ -168,17 +168,17 @@ The body of the HTML page contains the following script:
 ```
 * What will be displayed in the console when this page is previewed in the browser?
 
-INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
+1) INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
 Could not call the function to log the info!
 Executed the finally block
 
-Could not call the function to log the info!
+2) Could not call the function to log the info!
 Executed the finally block
 
-INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
+3) INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
 Executed the finally block
 
-Could not call the function to log the info!
+4) Could not call the function to log the info!
 
 <hr/>
 
@@ -218,13 +218,13 @@ The script in the following HTML page prompts the user for values and shows the 
 * What will be the alert if the user enters the value 8?
 
 
-The "result" is: 39
+1) The "result" is: 39
 
-The "result" is: 10
+2) The "result" is: 10
 
-The "result" is: 31
+3) The "result" is: 31
 
-The "result" is: 20
+4) The "result" is: 20
 
 <hr/>
 
@@ -261,7 +261,8 @@ The following code snippet declares some variables and calls a function to print
 
 * What are the types of the variables?
 
-
+Option 1:
+```
 type of x: undefined
 type of y: boolean
 type of z: number
@@ -271,7 +272,9 @@ type of v: object
 type of w: date
 type of m: null
 type of n: undefined
-
+```
+Option 2:
+```
 type of x: undefined
 type of y: boolean
 type of z: number
@@ -281,7 +284,9 @@ type of v: object
 type of w: object
 type of m: null
 type of n: undefined
-
+```
+Option 3:
+```
 type of x: undefined
 type of y: boolean
 type of z: number
@@ -291,7 +296,9 @@ type of v: object
 type of w: object
 type of m: object
 type of n: undefined
-
+```
+Option 4:
+```
 type of x: null
 type of y: boolean
 type of z: number
@@ -301,7 +308,7 @@ type of v: object
 type of w: object
 type of m: undefined
 type of n: undefined
-
+```
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted) (required, email, password, reset, etc.)
@@ -344,13 +351,13 @@ Temp: 66
 
 * What will be the value of the request URL?
 
-http://localhost:35132/Account/FormTest?name=&mail=test%40gmail.com&phone=555-123-4587&temp=66
+1) http://localhost:35132/Account/FormTest?name=&mail=test%40gmail.com&phone=555-123-4587&temp=66
 
-http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
+2) http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
 
-There will be no request URL
+3) There will be no request URL
 
-http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
+4) http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
 
 <hr/>
 
@@ -396,37 +403,42 @@ You have the following HTML page:
 ```
 * What shows in the console when the page is loaded in the browser?
 
+Option 1:
+```
 Name: Bryan, Salary: 7000.00
 Name: tom, Salary: 8000.00  
 Name: James, Salary: 10000.00  
 Name: Tim, Salary: 14000.00
 Name: Jessica, Salary: 21000.00  
 Name: Lisa, Salary: 33000.00
-
-
+```
+Option 2:
+```
 Name: James, Salary: 7000.00  
 Name: Bryan, Salary: 10000.00  
 Name: Tim, Salary: 21000.00  
 Name: Jessica, Salary: 33000.00  
 Name: Lisa, Salary: 14000.00  
 Name: tom, Salary: 8000.00
-
-
+```
+Option 3
+```
 Name: Bryan, Salary: 7000.00  
 Name: James, Salary: 10000.00  
 Name: Jessica, Salary: 21000.00  
 Name: Lisa, Salary: 33000.00  
 Name: Tim, Salary: 14000.00  
 Name: tom, Salary: 8000.00
-
-
+```
+Option 4:
+```
 Name: Bryan, Salary: 7000.00  
 Name: James, Salary: 10000.00  
 Name: Jessica, Salary: 21000.00  
 Name: Lisa, Salary: 33000.00 
 Name: tom, Salary: 8000.00 
 Name: Tim, Salary: 14000.00
-
+```
 
 <hr/>
 
@@ -450,13 +462,13 @@ The following script displays information about the screen:
 
 * For each of the following statements about these properties, answer True or False for the following questions:
 
-screen.availHeight > screen.height
+1) screen.availHeight > screen.height
 
-screen.colorDepth > screen.pixelDepth
+2) screen.colorDepth > screen.pixelDepth
 
-screen.availHeight < screen.height
+3) screen.availHeight < screen.height
 
-screen.colorDepth < screen.pixelDepth
+4) screen.colorDepth < screen.pixelDepth
 
 
 <hr/>
@@ -472,11 +484,11 @@ var d2 = new Date('March 11, 2005 02:30:00');
 
 Answer the following questions? 
 
-The getDate() function will return: ___
+Question 1) The getDate() function will return: ___
 
-The getUTCDate() function will return: ___
+Question 2) The getUTCDate() function will return: ___
 
-The getMonth() function will return: ___
+Question 3) The getMonth() function will return: ___
 
 
 <hr/>
@@ -535,12 +547,12 @@ You preview the following page in the browser:
 
 * Which word will be displayed on the screen?
 
-Yellow
+1) Yellow
 
-Green
+2) Green
 
-Banana
+3) Banana
 
-Kiwi
+4) Kiwi
 
 
