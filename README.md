@@ -60,19 +60,24 @@ You have the following HTML page:
 ```
 
 * What will be displayed in the console when you preview the page?
+
 Option 1:
+
 Here is the info:
 retseT tpircSavaJ
 JavaScript Tester::123 Main Street::Atlanta::GA::12345
 
 Option 2:
+
 Here is the info:
 
 Option 3:
+
 retseT tpircSavaJ
 JavaScript Tester::123 Main Street::Atlanta::GA::12345
 
 Option 4:
+
 An error message will be displayed because there are multiple script tags in the body.
 
 <hr/>
