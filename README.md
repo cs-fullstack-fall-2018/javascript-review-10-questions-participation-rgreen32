@@ -64,7 +64,9 @@ You have the following HTML page:
 Option 1:
 
 Here is the info:
+
 retseT tpircSavaJ
+
 JavaScript Tester::123 Main Street::Atlanta::GA::12345
 
 Option 2:
@@ -74,6 +76,7 @@ Here is the info:
 Option 3:
 
 retseT tpircSavaJ
+
 JavaScript Tester::123 Main Street::Atlanta::GA::12345
 
 Option 4:
