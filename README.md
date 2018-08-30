@@ -474,7 +474,7 @@ The following script displays information about the screen:
 <hr/>
 
 ### Dates
-MSJS practice question 28
+MSJS practice question 44
 
 A date is declared as follows:
 
