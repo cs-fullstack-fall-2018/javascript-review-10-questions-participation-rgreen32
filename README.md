@@ -2,6 +2,7 @@
 10 JavaScript Questions to cover with the class
 
 <hr/>
+
 ### JavaScript Template Literals
 MSJS practice question 16
 
@@ -72,6 +73,7 @@ JavaScript Tester::123 Main Street::Atlanta::GA::12345
 An error message will be displayed because there are multiple script tags in the body.
 
 <hr/>
+
 ### JavaScript Execution Context
 MSJS practice question 17
 
@@ -127,6 +129,7 @@ Nothing will be displayed on the screen and an error will display in the console
 This#is#a#test that illustrates
 
 <hr/>
+
 ### Try/Catch/Throw
 MSJS practice question 19
 
@@ -167,6 +170,7 @@ Executed the finally block
 Could not call the function to log the info!
 
 <hr/>
+
 ### Input/Confirm (undefined/null)
 MSJS practice question 26
 
@@ -212,6 +216,7 @@ The "result" is: 31
 The "result" is: 20
 
 <hr/>
+
 ### Typeof/null/undefined/hoisting
 MSJS practice question 30
 
@@ -287,6 +292,7 @@ type of m: undefined
 type of n: undefined
 
 <hr/>
+
 ### HTML5 Form Elements how fields are submitted) (required, email, password, reset, etc.)
 MSJS practice question 120
 
@@ -336,6 +342,7 @@ There will be no request URL
 http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
 
 <hr/>
+
 ### Extra on Array Functions: sort, filter, forEach, etc.
 MSJS practice question 40
 
@@ -411,6 +418,7 @@ Name: Tim, Salary: 14000.00
 
 
 <hr/>
+
 ### DOM and BOM
 MSJS practice question 28
 
@@ -441,6 +449,7 @@ screen.colorDepth < screen.pixelDepth
 
 
 <hr/>
+
 ### Dates
 MSJS practice question 28
 
@@ -460,6 +469,7 @@ The getMonth() function will return: ___
 
 
 <hr/>
+
 ### Let, Const
 MSJS practice question 54
 
