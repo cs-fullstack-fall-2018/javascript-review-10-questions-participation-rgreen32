@@ -59,7 +59,7 @@ You have the following HTML page:
 </html>
 ```
 
-What will be displayed in the console when you preview the page?
+* What will be displayed in the console when you preview the page?
 
 Here is the info:
 retseT tpircSavaJ
@@ -117,7 +117,7 @@ function doAction(data, size) {
 } 
 ```
 
-What will be displayed when you preview this page in the browser?
+* What will be displayed when you preview this page in the browser?
 
 
 This|is|a|test#that#illustrates
@@ -155,7 +155,7 @@ The body of the HTML page contains the following script:
              }
     </script>
 ```
-What will be displayed in the console when this page is previewed in the browser?
+* What will be displayed in the console when this page is previewed in the browser?
 
 INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
 Could not call the function to log the info!
@@ -204,7 +204,7 @@ The script in the following HTML page prompts the user for values and shows the 
 </body>
 </html>
 ```
-What will be the alert if the user enters the value 8?
+* What will be the alert if the user enters the value 8?
 
 
 The "result" is: 39
@@ -248,7 +248,7 @@ The following code snippet declares some variables and calls a function to print
 
         findType();
 
-What are the types of the variables?
+* What are the types of the variables?
 
 
 type of x: undefined
@@ -325,13 +325,13 @@ A form on a page contains the following markup:
 </form>
 ```
 
-A user enters the following values in the form and clicks Submit:
+* A user enters the following values in the form and clicks Submit:
 
 Email: test@gmail.coml
 Phone: 555-123-4587
 Temp: 66
 
-What will be the value of the request URL?
+* What will be the value of the request URL?
 
 http://localhost:35132/Account/FormTest?name=&mail=test%40gmail.com&phone=555-123-4587&temp=66
 
@@ -383,7 +383,7 @@ You have the following HTML page:
 </html>
 
 ```
-What shows in the console when the page is loaded in the browser?
+* What shows in the console when the page is loaded in the browser?
 
 Name: Bryan, Salary: 7000.00
 Name: tom, Salary: 8000.00  
@@ -437,7 +437,7 @@ The following script displays information about the screen:
     </script>
 ```
 
-For each of the following statements about these properties, answer True or False for the following questions:
+* For each of the following statements about these properties, answer True or False for the following questions:
 
 screen.availHeight > screen.height
 
@@ -522,7 +522,7 @@ You preview the following page in the browser:
 </html>
 ```
 
-Which word will be displayed on the screen?
+* Which word will be displayed on the screen?
 
 Yellow
 
