@@ -172,7 +172,7 @@ The body of the HTML page contains the following script:
 Could not call the function to log the info!
 Executed the finally block
 
-2) Could not call the function to log the info!
+2) Could not call the function to log the info!	X
 Executed the finally block
 
 3) INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
@@ -222,7 +222,7 @@ The script in the following HTML page prompts the user for values and shows the 
 
 2) The "result" is: 10
 
-3) The "result" is: 31
+3) The "result" is: 31 X
 
 4) The "result" is: 20
 
@@ -273,7 +273,7 @@ type of w: date
 type of m: null
 type of n: undefined
 ```
-Option 2:
+Option 2:	X
 ```
 type of x: undefined
 type of y: boolean
@@ -353,7 +353,7 @@ Temp: 66
 
 1) http://localhost:35132/Account/FormTest?name=&mail=test%40gmail.com&phone=555-123-4587&temp=66
 
-2) http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
+2) http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66 X
 
 3) There will be no request URL
 
