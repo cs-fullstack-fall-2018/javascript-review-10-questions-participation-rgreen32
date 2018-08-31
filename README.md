@@ -135,7 +135,7 @@ function doAction(data, size) {
 
 2) This|is|a|test#that#illustrates#some#key#points#about#scripts
 
-3) Nothing will be displayed on the screen and an error will display in the console
+3) Nothing will be displayed on the screen and an error will display in the console X
 
 4) This#is#a#test that illustrates
 
